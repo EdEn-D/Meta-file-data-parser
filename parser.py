@@ -67,7 +67,6 @@ class Parser:
 
 
 # # Running flow - create Parser object, pass the path. Run getData()
-# file_path = "./Intel/flow.tessent_meta"  # for test purposes
 #
 # test = Parser(file_path)
 # finalData = test.getData()
